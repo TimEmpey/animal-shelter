@@ -1,0 +1,35 @@
+.garfield{
+  background-color: rgba(252, 217, 151, 0.916);
+}
+.ember{
+  background-color:rgb(214, 156, 48);
+}
+.luna{
+  background-color: rgba(252, 217, 151, 0.916) ;
+}
+.humphrey{
+  background-color:rgb(214, 156, 48);
+}
+
+.garfield ul{
+  color: rgb(79, 48, 19);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.ember ul{
+color: rgb(149, 97, 8);
+font-family: Arial, Helvetica, sans-serif;
+}
+.luna ul{
+  color: rgb(79, 48, 19);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.humphrey ul{
+  color: rgb(149, 97, 8);
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 40px;
+}
